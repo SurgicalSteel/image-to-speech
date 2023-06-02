@@ -4,6 +4,8 @@ An android application which extracts text from given image and reads it to you.
 Developed by Yuwono Bangun Nagoro (a.k.a SurgicalSteel)  
 Built with Flutter <3  
 
+![Image to Speech](https://github.com/SurgicalSteel/image-to-speech/blob/main/Screenshot%202023-06-03%20at%2000.33.26.png "Image to Speech")
+
 ## Dependencies :
 - file_picker: ^5.3.2
 - google_ml_kit: ^0.15.0
